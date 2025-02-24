@@ -1,0 +1,6 @@
+openai
+pylint
+flake8
+fastapi
+uvicorn
+pytest
